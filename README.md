@@ -3,13 +3,15 @@
 
 ## Introduction.
 
-Hi 👋. I'm Meit Sant, 17, from India. Likes Cricket 🏏, and Python 🐍. Nice to meet you. 🤝
+Hi 👋. I'm Meit Sant, 17, from India. Likes Cricket 🏏, and Python 🐍. Just your average teen, High School kid. Currently in 12th [CBSE India]
+Nice to meet you. 🤝
 
 I'm a..
-### Abstract developer
-I create projects which I like. Projects that can make my life easier. These include Automations and others
+## Abstract developer
+I create projects which I like. Projects that can make my life easier. These include Automations and others.\
+Currently my arsenal of projects is not great 😅. However I am improving
 
--- Popular Projects
+#### Popular Projects
 - 🌃 [Dynamic Background Changer](https://github.com/MT-276/Dynamic-Background-Changer) 
 
 
@@ -37,7 +39,7 @@ I create projects which I like. Projects that can make my life easier. These inc
 </p>
 </br>
 
-### 📈 GitHub Stats
+### Github Stats:
 
 <a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-276&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
 
@@ -45,6 +47,15 @@ I create projects which I like. Projects that can make my life easier. These inc
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276)
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
+### Heres your reward for reaching here 🤗
 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula) -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card" />
+
+
+### Click this for an even greater reward ! 😉
+<p align="centre">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
+  <img align="center" src="https://github.com/gladiator0428/hodalica/raw/250a7f6e85fa5ac75ee19497afd8be4ed4d2d6f7/src/assets/svg/giftbox.svg" alt="Surprise !" height="50" width="50" />
+ </a>
+</p>
+</br>
