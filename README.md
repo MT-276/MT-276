@@ -3,7 +3,7 @@
 
 ## Introduction.
 
-Hi 👋. I'm Meit Sant, 17, from India. Likes Cricket 🏏, and Python 🐍. Just your average teen, High School kid. Currently in 12th [CBSE India]
+Hi 👋. I'm Meit Sant, 17, from India. Likes Cricket 🏏, and Pizza 🍕. Just your average teen, High School kid. Currently in 12th [CBSE India]
 Nice to meet you. 🤝
 
 I'm a..
