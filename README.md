@@ -1,14 +1,14 @@
 <h1 align="center">Welcome</h1>
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=MT-276)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MT-276" alt="MT-276" /></a> </p>
+<!---![GitHub profile views](https://komarev.com/ghpvc/?username=MT-276)-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>
 
 ## Introduction.
 
-Hi 👋. I'm Meit Sant, 17, from India. Likes Cricket 🏏, and Pizza 🍕. Just your average teen, High School kid. Currently in 12th [CBSE India]
+Hi 👋. I'm Meit Sant, 17, from India. Just your average teen, High School kid. Currently in 12th [CBSE India]
 Nice to meet you. 🤝
 
-I'm a..
+I'm an..
 ## Abstract developer
 I create projects which I like. Projects that can make my life easier. These include Automations and others.\
 Currently my arsenal of projects is not great 😅. However I am improving
