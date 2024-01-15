@@ -14,7 +14,8 @@ I create projects which I like. Projects that can make my life easier. These inc
 Currently my arsenal of projects is not great 😅. However I am improving
 
 #### Popular Projects
-- 🌃 [Dynamic Background Changer](https://github.com/MT-276/Dynamic-Background-Changer) 
+- 🌃 [Dynamic Background Changer](https://github.com/MT-276/Dynamic-Background-Changer)
+- 🖼️ [Picture to String Encoder and Decoder](https://github.com/MT-276/Picture-to-String-encoder)
 
 
 ### Languages I know 
@@ -52,7 +53,6 @@ Currently my arsenal of projects is not great 😅. However I am improving
 ### Heres your reward for reaching here 🤗
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card" />
-
 
 ### Click this for an even greater reward ! 😉
 <p align="centre">
