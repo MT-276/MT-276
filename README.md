@@ -42,6 +42,10 @@ Currently my arsenal of projects is not great 😅. However I am improving
 </p>
 </br>
 
+### Dev Stats:
+
+<a href="https://app.daily.dev/mt_276"><img src="https://api.daily.dev/devcards/v2/5qEv0yazQ5BPf6fwvDmll.png?r=aqh&type=wide" width="652" alt="Meit Sant's Dev Card"/></a>
+
 ### Github Stats:
 
 <a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-276&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
