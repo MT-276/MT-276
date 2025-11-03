@@ -5,7 +5,7 @@
 
 ## Introduction.
 
-Hi 👋. I'm Meit Sant, 17, from India. Just your average teen, High School kid. Currently studying as a first year student at Vellore Institute of Technology.
+Hi 👋. I'm Meit Sant, 19, from India. Currently studying as a second year student at Vellore Institute of Technology.
 Nice to meet you. 🤝
 
 I'm an..
