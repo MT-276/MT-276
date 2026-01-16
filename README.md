@@ -1,17 +1,14 @@
 <h1 align="center">Welcome</h1>
 
 <!---![GitHub profile views](https://komarev.com/ghpvc/?username=MT-276)-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>
 
 ## Introduction.
 
 Hi 👋. I'm Meit Sant, 19, from India. Currently studying as a second year student at Vellore Institute of Technology.
 Nice to meet you. 🤝
 
-I'm an..
-## Abstract developer
-I create projects which I like. Projects that can make my life easier. These include Automations and others.\
-Currently my arsenal of projects is not great 😅. However I am improving
+**I automate not to work less, but to live better.**\
 
 #### Popular Projects
 - 🌃 [Dynamic Background Changer](https://github.com/MT-276/Dynamic-Background-Changer)
@@ -26,6 +23,7 @@ Currently my arsenal of projects is not great 😅. However I am improving
  <a href="https://www.mysql.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"  alt="MySQL" width="40" height="40"/>
  </a>
+
 
 ### Connect with me:
 <p align="left">
