@@ -51,7 +51,7 @@ Nice to meet you. 🤝
 
 <a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MT-276&show_icons=true&theme=onedark" /></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276)-->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276) -->
 
 ### Heres your reward for reaching here 🤗
 
