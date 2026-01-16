@@ -43,13 +43,15 @@ Nice to meet you. 🤝
 
 <a href="https://app.daily.dev/mt_276"><img src="https://api.daily.dev/devcards/v2/5qEv0yazQ5BPf6fwvDmll.png?r=aqh&type=wide" width="652" alt="Meit Sant's Dev Card"/></a>
 
-### Github Stats:
+<!--### Github Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-276&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
 
 <a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MT-276&show_icons=true&theme=onedark" /></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276)-->
 
 ### Heres your reward for reaching here 🤗
 
