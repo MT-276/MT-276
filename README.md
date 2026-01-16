@@ -1,7 +1,6 @@
 <h1 align="center">Welcome</h1>
 
-<!---![GitHub profile views](https://komarev.com/ghpvc/?username=MT-276)-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>-->
 
 ## Introduction.
 
