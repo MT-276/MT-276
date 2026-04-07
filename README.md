@@ -1,66 +1,49 @@
-<h1 align="center">Welcome</h1>
+# Welcome
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MT-276&no-bg=true&no-frame=true&theme=darkhub" alt="MT-276" /></a> </p>-->
+## Introduction
 
-## Introduction.
-
-Hi 👋. I'm Meit Sant, 19, from India. Currently studying as a second year student at Vellore Institute of Technology.
+Hi 👋. I'm Meit Sant, 20, from India. Currently studying as a second year student at Vellore Institute of Technology.
 Nice to meet you. 🤝
 
-**I automate not to work less, but to live better.**\
+**I automate not to work less, but to live better.**
 
-#### Popular Projects
+### Projects
+
 - 🌃 [Dynamic Background Changer](https://github.com/MT-276/Dynamic-Background-Changer)
 - 🖼️ [Picture to String Encoder and Decoder](https://github.com/MT-276/Picture-to-String-encoder)
+- 🎯 [Hand-Eye Coordination Test Project](https://github.com/MT-276/Hand-Eye-Coordination-Test-Project)
+- 🤖 [AI First Respondent](https://github.com/MT-276/AI-First-Respondent)
+- 🔐 [Secure Imaging Database](https://github.com/MT-276/Secure-Imaging-Database)
+- 📅 [Auto Meeting Joiner](https://github.com/MT-276/Auto-Meeting-Joiner)
+- 🌱 [Sept Hybrid Punnet Square](https://github.com/MT-276/Sept-Hybrid-Punnet-Square)
 
+### Languages I know
 
-### Languages I know 
-<p align="left">
- <a href="https://www.python.org/" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>
- </a>
- <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"  alt="MySQL" width="40" height="40"/>
- </a>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)](https://react.dev/)
 
+### Connect with me
 
-### Connect with me:
-<p align="left">
+[![Website](https://img.shields.io/badge/Website-meitsant.dev-1f6feb?logo=googlechrome&logoColor=white&style=flat-square)](https://meitsant.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meit--sant-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/meit-sant)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-mt--276-F58025?logo=stackoverflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/20022511/mt-276)
+[![Reddit](https://img.shields.io/badge/Reddit-MT__276-FF4500?logo=reddit&logoColor=white&style=flat-square)](https://www.reddit.com/user/MT_276)
+[![YouTube](https://img.shields.io/badge/YouTube-meitsant2981-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@meitsant2981)
 
- <a href="https://stackoverflow.com/users/20022511/mt-276" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"               alt="MT-276" height="30" width="40" />
- </a>
- <a href="https://www.reddit.com/user/MT_276" target="blank">
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/reddit.svg" alt="MT-276" height="30" width="40" />
- </a>
- <a href="https://www.youtube.com/@meitsant2981" target="blank">
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" alt="MT-276" height="30" width="40" />
- </a>
-</p>
-</br>
+### Dev Stats
 
-### Dev Stats:
-
-<a href="https://app.daily.dev/mt_276"><img src="https://api.daily.dev/devcards/v2/5qEv0yazQ5BPf6fwvDmll.png?r=aqh&type=wide" width="652" alt="Meit Sant's Dev Card"/></a>
-
-<!--### Github Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-276&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
-
-<a href="https://github.com/MT-276/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MT-276&show_icons=true&theme=onedark" /></a>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MT-276) -->
+[![Meit Sant's Dev Card](https://api.daily.dev/devcards/v2/5qEv0yazQ5BPf6fwvDmll.png?r=aqh&type=wide)](https://app.daily.dev/mt_276)
 
 ### Heres your reward for reaching here 🤗
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark)
 
-### Click this for an even greater reward ! 😉
-<p align="centre">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
-  <img align="center" src="https://github.com/gladiator0428/hodalica/raw/250a7f6e85fa5ac75ee19497afd8be4ed4d2d6f7/src/assets/svg/giftbox.svg" alt="Surprise !" height="50" width="50" />
- </a>
-</p>
-</br>
+### Click this for an even greater reward 😉
+
+[![Surprise](https://github.com/gladiator0428/hodalica/raw/250a7f6e85fa5ac75ee19497afd8be4ed4d2d6f7/src/assets/svg/giftbox.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
